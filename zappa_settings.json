@@ -2,7 +2,7 @@
     "dev": {
         "app_function": "hello.app",
         "aws_region": "ap-northeast-2",
-        "project_name": "blog-app",
+        "project_name": "blog_app",
         "runtime": "python3.6",
         "s3_bucket": "zappa-uiba0ffhu"
     }
