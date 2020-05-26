@@ -10,3 +10,5 @@ phases:
   build:
     commands:
       - pipenv run zappa update
+
+      
